@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.xst" -ofn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.syr" 
+xst -intstyle ise -ifn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.xst" -ofn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.syr" 
+xst -intstyle ise -ifn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.xst" -ofn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.syr" 
+xst -intstyle ise -ifn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.xst" -ofn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.syr" 
+xst -intstyle ise -ifn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.xst" -ofn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.syr" 
+xst -intstyle ise -ifn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.xst" -ofn "F:/CECS 440/Lab 3 - Single Cycle MIPS Processor/Single_Cell_MIPS_Processor/SingleCycle.syr" 

@@ -1,0 +1,8 @@
+verilog isim_temp "register_file.v"
+verilog isim_temp "PC.v"
+verilog isim_temp "InstrMem.v"
+verilog isim_temp "Data_Mem.v"
+verilog isim_temp "Controller.v"
+verilog isim_temp "ALU.v"
+verilog isim_temp "Single_Cell_MIPS_Processor.v"
+verilog isim_temp "C:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,6 @@
+verilog work "register_file.v"
+verilog work "PC.v"
+verilog work "Data_Mem.v"
+verilog work "Controller.v"
+verilog work "ALU.v"
+verilog work "SingleCycle.v"
