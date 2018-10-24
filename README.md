@@ -1,8 +1,8 @@
-# Lab_3_Single_Cycle_MIPS_Processor
-Project Overview:  
-32-Bit Single Cycle MIPS Processor using Verilog.  
+Project Overview: 
+
+32-Bit Single Cycle RISC Processor using Verilog.  
   
-The purpose of this lab was to combine our register file and ALU modules (made in previous labs), together and use them to help create a Single Cycle MIPS Processor. I used these modules, along with the Controller module and Test bench module provided to us by the professor, to help me create the Single Cycle MIPS Processor.   
+The purpose of this lab was to combine our register file and ALU modules (made in previous labs), together and use them to help create a Single Cycle RISC Processor. I used these modules, along with the Controller module and Test bench module provided to us by the professor, to help me create the Single Cycle RISC Processor.   
   
 Aside from these modules, I needed to implement a Program Counter, an Instruction Memory, a Data Memory, and other various multiplexors, adders, and logical gates in order to implement the processor. The processor module only has two input variables: clock and reset. It does not contain any output variables. All of the other variables contained within the processor are local to the Single Cell Processor module. The verilog source code files contain an in-depth discussion of each module and its purpose within the project.
   
